@@ -302,6 +302,117 @@ Depois migrar para:
 
 **👉 Marketplace é ótimo para começar e crescer, mas o dinheiro de verdade está em construir sua própria marca fora dele.**
 
+---
+
+
+## 📚 Glossário – Vendas em Marketplace ##
+🛒 Marketplace
+
+Plataforma online (como Mercado Livre, Shopee, Amazon) onde vários vendedores anunciam produtos para consumidores finais.
+
+## 📦 Fornecedor ##
+
+Empresa ou pessoa que fornece os produtos para você vender. Pode ser fabricante, distribuidor ou importador.
+
+## 🏷️ Marca própria (Private Label) ##
+
+Quando você vende produtos com sua própria marca, mesmo que não seja o fabricante direto.
+
+## 💰 Margem de lucro ##
+
+Diferença entre o custo total do produto e o preço de venda.
+Nos marketplaces, costuma ser baixa (~10%).
+
+## 💸 Comissão do marketplace ##
+
+Percentual que a plataforma cobra por cada venda (geralmente entre 10% e 20%, podendo chegar a 30%).
+
+## 📉 Guerra de preços ##
+
+Competição intensa onde vendedores baixam preços para ganhar vendas, reduzindo lucros.
+
+## 📊 Demanda ##
+
+Quantidade de pessoas interessadas em comprar um produto.
+
+## ⚔️ Concorrência ##
+
+Número de vendedores oferecendo o mesmo produto ou similares.
+
+## 📅 Produto sazonal ##
+
+Produto que vende mais em épocas específicas (ex: Natal, Dia das Mães, verão).
+
+## 🔄 Produto de venda contínua ##
+
+Produto que vende o ano todo, sem depender de datas específicas.
+
+## 📦 Kit de produtos ##
+
+Estratégia de vender vários itens juntos para aumentar valor percebido e fugir da concorrência direta.
+
+## 🧠 Algoritmo do marketplace ##
+
+Sistema da plataforma que decide quais produtos aparecem mais para os clientes.
+
+## 📣 Ads (anúncios pagos) ##
+
+Investimento dentro do marketplace para aumentar visibilidade dos produtos.
+
+## 🚚 Fulfillment ##
+
+Serviço logístico onde a plataforma armazena, embala e entrega o produto (ex: Amazon FBA, Mercado Livre Full).
+
+## 📦 Logística ##
+
+Processo de armazenamento, envio e entrega dos produtos ao cliente.
+
+## 🔁 Logística reversa ##
+
+Processo de devolução de produtos, geralmente com custo para o vendedor.
+
+## ⭐ Prova social ##
+
+Avaliações, comentários e número de vendas que geram confiança para novos compradores.
+
+## 📈 Escala ##
+
+Capacidade de vender em grande volume para aumentar o lucro total, mesmo com margem baixa.
+
+## 💵 CAC (Custo de Aquisição de Cliente) ##
+
+Quanto você gasta para conquistar um cliente (ex: anúncios, promoções).
+
+## ⚙️ ERP ##
+
+Sistema de gestão que organiza estoque, vendas, notas fiscais e integração com marketplaces.
+
+## 🧾 CNPJ / MEI ##
+
+Formalização da empresa para operar legalmente, emitir notas fiscais e escalar o negócio.
+
+## 🧲 SEO para marketplace ##
+
+Otimização do anúncio (título, descrição, palavras-chave) para aparecer melhor nas buscas.
+
+## 🔒 Dependência da plataforma ##
+
+Risco de depender totalmente do marketplace, ficando sujeito a mudanças de regras e taxas.
+
+## 🏪 E-commerce próprio ##
+
+Loja virtual própria, onde você vende sem pagar comissão e constrói relacionamento com clientes.
+
+## 🧠 Resumo final do glossário ##
+
+Esses conceitos mostram que vender em marketplace não é só “colocar produto e esperar vender”, mas sim um jogo de:
+
+estratégia
+controle de custos
+volume de vendas
+
+
+
 
 ---
 
