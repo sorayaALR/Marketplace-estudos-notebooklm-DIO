@@ -220,7 +220,7 @@ Visão de Longo Prazo e Independência Viver apenas de marketplaces representa u
 
 
 
-🧠 Conclusão
+## 🧠 Conclusão ##
 
 **1. Vale a pena vender em marketplace?**
 
